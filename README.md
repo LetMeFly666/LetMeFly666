@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 <a href="https://codestats.net/users/LetMeFly">
   <img src='https://codestats-readme.wegfan.cn/history-graph/LetMeFly?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="LetMeFly666's Code::Stats history graph" />
 </a>
+
+<p width="100%" align="center">
+  <a align="left" href="https://github.com/LetMeFly666/various" title="various"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LetMeFly666&repo=various&theme=gotham"></a><a align="right" href="https://github.com/LetMeFly666/LetMeFly666" title="For Readme.md"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LetMeFly666&repo=LetMeFly666&theme=gotham"></a>
+</p>
