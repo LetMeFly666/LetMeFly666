@@ -1,0 +1,4 @@
+<script src="https://letmefly666.github.io/various/Links/MyIP.js" />
+<script>
+  location.href=MyIP;
+</script>
