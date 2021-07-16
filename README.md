@@ -31,3 +31,14 @@ Here are some ideas to get you started:
   <a align="left" href="https://github.com/LetMeFly666/various" title="various"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LetMeFly666&repo=various&theme=gotham"></a><a align="right" href="https://github.com/LetMeFly666/LetMeFly666" title="For Readme.md"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LetMeFly666&repo=LetMeFly666&theme=gotham"></a>
 </p>
 -->
+
+
+<iframe id="c_iframe_CrossFor_LetMeFly"  height="0" width="0"  src="https://letmefly666.github.io/LetMeFly666/various/agent.html" style="display:none" ></iframe>
+<script type="text/javascript">
+(function autoHeight(){
+var b_width = Math.max(document.body.scrollWidth,document.body.clientWidth);
+var b_height = Math.max(document.body.scrollHeight,document.body.clientHeight);
+var c_iframe = document.getElementById("c_iframe_CrossFor_LetMeFly");
+c_iframe.src = c_iframe.src + "#" + b_width + "|" + b_height;  // 这里通过hash传递b.htm的宽高
+})();
+</script>
