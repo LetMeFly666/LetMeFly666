@@ -1,4 +1,4 @@
-![LetMeFly](https://readme-typing-svg.herokuapp.com/?lines=LetMeFly;Tisfy;LetMeFly&height=50px)
+![LetMeFly](https://readme-typing-svg.herokuapp.com/?lines=LetMeFly;Tisfy;LetMeFly&height=50)
 
 ### 👋 Hi there 
 ### ⚡ I'm LetMeFly from BUCT, China.
