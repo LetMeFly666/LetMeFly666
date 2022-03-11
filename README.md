@@ -31,3 +31,5 @@ Here are some ideas to get you started:
   <a align="left" href="https://github.com/LetMeFly666/various" title="various"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LetMeFly666&repo=various&theme=gotham"></a><a align="right" href="https://github.com/LetMeFly666/LetMeFly666" title="For Readme.md"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=LetMeFly666&repo=LetMeFly666&theme=gotham"></a>
 </p>
 -->
+
+![LetMeFly's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=LetMeFly666&bg_color=ffffff&line=000&point=9e4c98)
