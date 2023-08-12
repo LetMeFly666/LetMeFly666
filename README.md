@@ -1,7 +1,7 @@
 ![LetMeFly](https://readme-typing-svg.herokuapp.com/?lines=LetMeFly;Tisfy;LetMeFly&height=50)
 
 ### 👋 Hi there 
-### ⚡ I'm LetMeFly from BUCT, China.
+### ⚡ I'm LetMeFly from BUPT, China.
 
 <!--
 **LetMeFly666/LetMeFly666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
